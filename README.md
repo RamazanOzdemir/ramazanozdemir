@@ -9,5 +9,5 @@
 - 📫 How to reach me: ramazanozdemir2607@gmail.com
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazanozdemir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazanozdemir&layout=compact)
+## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazanozdemir&show_icons=true&theme=radical)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazanozdemir&layout=compact)
